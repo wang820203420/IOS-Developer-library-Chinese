@@ -26,8 +26,8 @@ iOS 任务报备表
 ---------------------------------------------
 
 
-CFnetwork －－状态:正在进行中 开始时间:2015.8.28  翻译人:庄周  审核状态:未审核  审核人:
-https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/URLLoadingSystem/URLLoadingSystem.html#//apple_ref/doc/uid/10000165i
+CFNetwork －－状态:正在进行中 开始时间:2015.8.28  翻译人:庄周  审核状态:未审核  审核人:
+ https://developer.apple.com/library/prerelease/mac/documentation/Networking/Conceptual/CFNetwork/Introduction/Introduction.html#//apple_ref/doc/uid/TP30001132-CH1-DontLinkElementID_30
 
 
 术语参考表
