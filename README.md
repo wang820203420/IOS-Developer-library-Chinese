@@ -32,6 +32,8 @@ CFNetwork －－状态:正在进行中 开始时间:2015.8.28  翻译人:庄周 
 Thread Management 5个小节－－状态:正在进行中 开始时间:2015.8.29  翻译人:Chaos  审核状态:未审核  审核人:
 https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Conceptual/Multithreading/CreatingThreads/CreatingThreads.html#//apple_ref/doc/uid/10000057i-CH15-SW2
 
+Socket introduction 3个小节－－状态:正在进行中 开始时间:2015.8.29  翻译人:一帆  审核状态:未审核  审核人:
+https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/NetworkingTopics/Introduction/Introduction.html#//apple_ref/doc/uid/TP40012546-SW1
 
 术语参考表
 ----------------------------------------------
