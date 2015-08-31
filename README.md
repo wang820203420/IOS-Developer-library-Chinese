@@ -29,6 +29,9 @@ iOS 任务报备表
 CFNetwork －－状态:正在进行中 开始时间:2015.8.28  翻译人:庄周  审核状态:未审核  审核人:
  https://developer.apple.com/library/prerelease/mac/documentation/Networking/Conceptual/CFNetwork/Introduction/Introduction.html#//apple_ref/doc/uid/TP30001132-CH1-DontLinkElementID_30
 
+Thread Management 5个小节－－状态:正在进行中 开始时间:2015.8.29  翻译人:Chaos  审核状态:未审核  审核人:
+https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Conceptual/Multithreading/CreatingThreads/CreatingThreads.html#//apple_ref/doc/uid/10000057i-CH15-SW2
+
 
 术语参考表
 ----------------------------------------------
