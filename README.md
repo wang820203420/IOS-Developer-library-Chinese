@@ -35,6 +35,9 @@ https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Conceptua
 Socket introduction 3个小节－－状态:正在进行中 开始时间:2015.8.29  翻译人:一帆  审核状态:未审核  审核人:
 https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/NetworkingTopics/Introduction/Introduction.html#//apple_ref/doc/uid/TP40012546-SW1
 
+Bonjour 第一小节(Introduction 和 Bonjour Concepts)－－状态:正在进行中 开始时间:2015.8.29  翻译人:钰之丞  审核状态:未审核 
+https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/NetServices/Introduction.html#//apple_ref/doc/uid/TP40002445-SW1
+
 术语参考表
 ----------------------------------------------
 稍后会建立术语参考
