@@ -23,7 +23,8 @@ iOS 开发者文档中文版
 翻译部分:  
 -----------------------------------  
 目前翻译的部分是网络部分
-1.URL加载系统编程指南
+翻译之前,首先可以看下报备区有没有重复翻译的部分,再选择合适自己的。
+<br>1.URL加载系统编程指南
 https://developer.apple.com/library/prerelease/watchos/documentation/Cocoa/Conceptual/URLLoadingSystem/URLLoadingSystem.html
 <br>2.Socket
  https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/NetworkingTopics/Articles/UsingSocketsandSocketStreams.html#//apple_ref/doc/uid/CH73-SW1
