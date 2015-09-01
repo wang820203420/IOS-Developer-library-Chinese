@@ -57,10 +57,7 @@ https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Conceptua
 Socket introduction 3个小节－－状态:正在进行中 开始时间:2015.8.29  翻译人:一帆  审核状态:未审核  审核人:
 https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/NetworkingTopics/Introduction/Introduction.html#//apple_ref/doc/uid/TP40012546-SW1
 
-Bonjour 第一小节(Introduction 和 Bonjour Concepts)－－状态:正在进行中 开始时间:2015.8.29  翻译人:钰之丞  审核状态:未审核 
-https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/NetServices/Introduction.html#//apple_ref/doc/uid/TP40002445-SW1
-
-Bonjour 第二小节(Domain Naming Conventions)－－状态:正在进行中 开始时间:2015.9.1  翻译人:贝勒爷、  审核状态:未审核 
+Bonjour 第1和第2小节(Introduction 、 Bonjour Concepts、Domain Naming Conventions)－－状态:正在进行中 开始时间:2015.9.1  翻译人:贝勒爷、  审核状态:未审核 
 https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/NetServices/Articles/domainnames.html#//apple_ref/doc/uid/TP40002460-SW1
 
 URL Loading System Programming Guide部分 (Cookies and Custom Protocols 小节)－－状态:正在进行中 开始时间:2015.9.1  翻译人:Just 路过  审核状态:未审核 
