@@ -20,6 +20,21 @@ iOS 开发者文档中文版
 <br>2.不求最快，但求最精。保障翻译质量。有错误，，随时可以提出来，及时更改错误。
 <br>3.翻译之前，请看有没有重复翻译文档。
 
+翻译部分:  
+-----------------------------------  
+目前翻译的部分是网络部分
+1.URL加载系统编程指南
+https://developer.apple.com/library/prerelease/watchos/documentation/Cocoa/Conceptual/URLLoadingSystem/URLLoadingSystem.html
+<br>2.Socket
+ https://developer.apple.com/library/ios/documentation/NetworkingInternet/Conceptual/NetworkingTopics/Articles/UsingSocketsandSocketStreams.html#//apple_ref/doc/uid/CH73-SW1
+<br>3.CFNetwork
+ https://developer.apple.com/library/prerelease/mac/documentation/Networking/Conceptual/CFNetwork/Introduction/Introduction.html#//apple_ref/doc/uid/TP30001132-CH1-DontLinkElementID_30
+<br>4.Stream
+https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/Streams/Streams.html#//apple_ref/doc/uid/10000188-SW1
+<br>5.Thread
+https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html
+<br>6.Bonjour 
+https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/NetServices/Introduction.html#//apple_ref/doc/uid/10000119i
 
 翻译建议:
 ----------------------------------------------
