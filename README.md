@@ -77,6 +77,9 @@ https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/URLLoadin
 `URL Loading System Programming Guide(Using NSURLDownload 小节)`－－状态:正在进行中 开始时间:2015.9.2  翻译人:寂寞梧桐  审核状态:未审核  审核人:
 https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/URLLoadingSystem/Tasks/UsingNSURLDownload.html#//apple_ref/doc/uid/20001839-BAJEAIEE
 
+`Networking Overview(全部章节)`－－状态:正在进行中 开始时间:2015.9.2  翻译人:憩于尘土  审核状态:未审核  审核人:
+https://developer.apple.com/library/prerelease/ios/documentation/NetworkingInternetWeb/Conceptual/NetworkingOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010220
+
 术语参考表
 ----------------------------------------------
 稍后会建立术语参考
