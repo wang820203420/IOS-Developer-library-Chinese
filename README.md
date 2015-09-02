@@ -71,6 +71,10 @@ https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/URLLoadin
 `URL Loading System Programming Guide(Life Cycle of a URL Session和Using NSURLConnection 小节)` －－状态:已经完成 开始时间:2015.8.28  翻译人:庄周  审核状态:未审核  审核人:
 https://developer.apple.com/library/prerelease/watchos/documentation/Cocoa/Conceptual/URLLoadingSystem/NSURLSessionConcepts/NSURLSessionConcepts.html#//apple_ref/doc/uid/10000165i-CH2-SW1
 
+`URL Loading System Programming Guide(Introduction 和 Using NSURLSession 两小节)`－－状态:正在进行中 开始时间:2015.9.2  翻译人:Developer Zhang  审核状态:未审核  审核人:
+https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/URLLoadingSystem/URLLoadingSystem.html#//apple_ref/doc/uid/10000165-BCICJDHA
+`URL Loading System Programming Guide(Using NSURLDownload 小节)`－－状态:正在进行中 开始时间:2015.9.2  翻译人:寂寞梧桐  审核状态:未审核  审核人:
+https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/URLLoadingSystem/Tasks/UsingNSURLDownload.html#//apple_ref/doc/uid/20001839-BAJEAIEE
 
 术语参考表
 ----------------------------------------------
