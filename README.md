@@ -24,7 +24,7 @@ iOS 开发者文档中文版
 
 翻译部分:  
 -----------------------------------  
-目前翻译的部分是网络部分
+目前翻译的部分是网络部分,您可以选择如下原文中的一小节翻译。
 翻译之前,首先可以看下报备区有没有重复翻译的部分,再选择合适自己的。
 <br>1.URL加载系统编程指南
 https://developer.apple.com/library/prerelease/watchos/documentation/Cocoa/Conceptual/URLLoadingSystem/URLLoadingSystem.html
