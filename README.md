@@ -53,9 +53,6 @@ iOS 任务报备表
 `CFNetwork` －－状态:正在进行中 开始时间:2015.8.28  翻译人:庄周  审核状态:未审核  审核人:
  https://developer.apple.com/library/prerelease/mac/documentation/Networking/Conceptual/CFNetwork/Introduction/Introduction.html#//apple_ref/doc/uid/TP30001132-CH1-DontLinkElementID_30
  
-`URL Loading System Programming Guide(Life Cycle of a URL Session和Using NSURLConnection 小节)` －－状态:已经完成 开始时间:2015.8.28  翻译人:庄周  审核状态:未审核  审核人:
-https://developer.apple.com/library/prerelease/watchos/documentation/Cocoa/Conceptual/URLLoadingSystem/NSURLSessionConcepts/NSURLSessionConcepts.html#//apple_ref/doc/uid/10000165i-CH2-SW1
-
 `Thread Management 5个小节`－－状态:正在进行中 开始时间:2015.8.29  翻译人:Chaos  审核状态:未审核  审核人:
 https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Conceptual/Multithreading/CreatingThreads/CreatingThreads.html#//apple_ref/doc/uid/10000057i-CH15-SW2
 
@@ -71,7 +68,8 @@ https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/NetServic
 `URL Loading System Programming Guide部分 (Cookies and Custom Protocols 小节)`－－状态:正在进行中 开始时间:2015.9.1  翻译人:Just 路过  审核状态:未审核 
 https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/URLLoadingSystem/CookiesandCustomProtocols/CookiesandCustomProtocols.html#//apple_ref/doc/uid/10000165i-CH10-SW3
 
-
+`URL Loading System Programming Guide(Life Cycle of a URL Session和Using NSURLConnection 小节)` －－状态:已经完成 开始时间:2015.8.28  翻译人:庄周  审核状态:未审核  审核人:
+https://developer.apple.com/library/prerelease/watchos/documentation/Cocoa/Conceptual/URLLoadingSystem/NSURLSessionConcepts/NSURLSessionConcepts.html#//apple_ref/doc/uid/10000165i-CH2-SW1
 
 
 术语参考表
