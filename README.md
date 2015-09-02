@@ -73,6 +73,7 @@ https://developer.apple.com/library/prerelease/watchos/documentation/Cocoa/Conce
 
 `URL Loading System Programming Guide(Introduction 和 Using NSURLSession 两小节)`－－状态:正在进行中 开始时间:2015.9.2  翻译人:Developer Zhang  审核状态:未审核  审核人:
 https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/URLLoadingSystem/URLLoadingSystem.html#//apple_ref/doc/uid/10000165-BCICJDHA
+
 `URL Loading System Programming Guide(Using NSURLDownload 小节)`－－状态:正在进行中 开始时间:2015.9.2  翻译人:寂寞梧桐  审核状态:未审核  审核人:
 https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/URLLoadingSystem/Tasks/UsingNSURLDownload.html#//apple_ref/doc/uid/20001839-BAJEAIEE
 
